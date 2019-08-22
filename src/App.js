@@ -1,15 +1,18 @@
-import React from 'react';
+import React, { Component} from 'react';
 import './App.css';
 import Map from "./component/map";
 
 require('dotenv').config();
 
-function App() {
+class App extends Component {
+  render(){
+    return (
+      <Map {...this.props}></Map>
+    );
+  }
 
 
-  return (
-      <Map></Map>
-  );
+
 }
 
 export default App;

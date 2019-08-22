@@ -3,15 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="baf3edfc-8664-4d23-bd24-62013ece3b3c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/long-trail-landmarks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +46,13 @@
     <property name="ts.external.directory.path" value="C:\Users\mwtidd\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\192.5728.87\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ThirdHiker\Workspace\public-tracker\build" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ThirdHiker\Workspace\public-tracker\public" />
       <recent name="D:\ThirdHiker\Workspace\public-tracker" />
       <recent name="D:\ThirdHiker\Workspace\public-tracker\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ThirdHiker\Workspace\public-tracker\build" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,8 +141,21 @@
       <workItem from="1565832597492" duration="721000" />
       <workItem from="1566049122394" duration="22844000" />
       <workItem from="1566180415185" duration="973000" />
-      <workItem from="1566227004760" duration="3610000" />
+      <workItem from="1566227004760" duration="4244000" />
+      <workItem from="1566263860449" duration="871000" />
+      <workItem from="1566308563577" duration="14000" />
+      <workItem from="1566341908884" duration="2991000" />
+      <workItem from="1566394610389" duration="12725000" />
+      <workItem from="1566437301975" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1566230666174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566230666174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,15 +174,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/component/map.js</url>
-          <line>48</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
